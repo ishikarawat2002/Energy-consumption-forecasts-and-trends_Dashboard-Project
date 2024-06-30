@@ -1,1 +1,1 @@
-# Energy-consumption-forecasts-and-trends_Dashboard-Project
+ # Energy-consumption-forecasts-and-trends_Dashboard-ProjectThis project aims to forecast energy consumption for a smart grid using historical data from the UCI Electricity Load Diagrams Dataset. Implementing ARIMA and LSTM models, we will set up a database to store energy data and develop a dashboard to visualize consumption forecasts and trends, enhancing smart grid efficiency.
